@@ -1,5 +1,9 @@
 # ARCH Instalation Guide by 5neepy
 
+Welcome to the comprehensive ARCH Instalation Guide by 5neepy. Arch Linux is a flexible and lightweight distribution known for its simplicity and customization options. This tutorial is designed for those who want to build a personalized and optimized operating system from the ground up. We'll walk you through the initial after you booted up from your USB. By the end of this guide, you will have a basic yet functional Arch Linux system installed, setting the foundation for you to add your choice of a desktop environment, applications, and tailored configurations. Whether you're an experienced Linux user or venturing into the world of Arch for the first time, this tutorial will provide the essential steps to get you started on your journey with Arch Linux.
+
+1. Boot into your Arch USB and lets start!
+
 ## Checking the internet on the system - Arch Instalation Guide
 
 ping gnu.org
