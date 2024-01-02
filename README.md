@@ -5,17 +5,20 @@ Welcome to the comprehensive ARCH Instalation Guide by 5neepy. Arch Linux is a f
 1. Boot into your Arch USB and lets start!
 
 ## Checking the internet on the system - Arch Instalation Guide
-
+```bash
 ping gnu.org
-
+```
+```bash
 timedatectl set-ntp true
-
+```
 ## Check the disk name (sda, sdb etc...) - Arch Instalation Guide
-
+```bash
 lsblk
-
-cfdisk /dev/your_disk_name // put your disk name on your_disk_name
-
+```
+```bash
+cfdisk /dev/your_disk_name
+```
+Put your disk name ^
 ## 1.Label type
 ***!!! IF YOU WILL USE EFI CHOOSE GPT***  
 gpt - disk > 2TB  
